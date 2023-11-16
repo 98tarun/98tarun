@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @98tarun
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning API,NETWORKING, MERN STACK, FULL STACK DEVELOPMENT , NODE.js , EXPRESS.js. REACT.js, BOOTSTRAP
+- 🌱 I’m currently learning API,NETWORKING, MERN STACK, FULL STACK DEVELOPMENT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
